@@ -103,9 +103,4 @@ source $ZSH/oh-my-zsh.sh
 alias zshconfig="nano ~/.zshrc"
 alias baum='cbonsai -l -i'
 alias hackerman='cmatrix -s'
-alias chromium='exec /home/davman808/.chromium/chrome'
-alias chrome='exec /home/davman808/.chromium/chrome'
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
-#more dotnet stuff
-#export DOTNET_ROOT=/home/davman808/.dotnet
